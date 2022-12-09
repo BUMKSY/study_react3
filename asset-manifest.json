@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/study_react3/static/css/main.bb9c5121.css",
-    "main.js": "/study_react3/static/js/main.b44dcbd1.js",
+    "main.js": "/study_react3/static/js/main.1454f74a.js",
     "static/media/GowunBatangRegular.eot": "/study_react3/static/media/GowunBatangRegular.af02543ebfb93fe96dee.eot",
     "static/media/GowunBatangRegular.ttf": "/study_react3/static/media/GowunBatangRegular.6b610213de9843984042.ttf",
     "static/media/GowunBatangBold.eot": "/study_react3/static/media/GowunBatangBold.bd54844e2f62d7bdb9da.eot",
@@ -44,10 +44,10 @@
     "static/media/SaolDisplay-Regular.woff2": "/study_react3/static/media/SaolDisplay-Regular.d2f1f152c22382033869.woff2",
     "index.html": "/study_react3/index.html",
     "main.bb9c5121.css.map": "/study_react3/static/css/main.bb9c5121.css.map",
-    "main.b44dcbd1.js.map": "/study_react3/static/js/main.b44dcbd1.js.map"
+    "main.1454f74a.js.map": "/study_react3/static/js/main.1454f74a.js.map"
   },
   "entrypoints": [
     "static/css/main.bb9c5121.css",
-    "static/js/main.b44dcbd1.js"
+    "static/js/main.1454f74a.js"
   ]
 }
