@@ -9,7 +9,7 @@ import Unsplash from "./components/pages/Unsplash";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="/about" element={<About />} />
